@@ -1,6 +1,8 @@
 # Axon - Collaborative Task Management Platform
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+
+> **Archived.** This repository is read-only and no longer maintained.
 
 ## Overview
 
@@ -187,7 +189,19 @@ Before starting, read the contributor guide in [`AGENTS.md`](AGENTS.md) for repo
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the **GNU General Public License v2.0** — see the
+[LICENSE](LICENSE) file for the full text.
+
+An earlier revision of this README displayed an MIT badge. That was incorrect: the `LICENSE`
+file in this repository has always been GPL-2.0, and GPL-2.0 is what applies. Anyone who
+relied on the MIT statement should treat this correction as authoritative.
+
+## Upstream project and credits
+
+Axon originated at **[gitlab.com/nunera/axon](https://gitlab.com/nunera/axon)**, and this
+repository's git history includes merges from that project. Copyright is therefore held by
+the upstream contributors as well as the maintainer of this mirror, and it cannot be
+relicensed unilaterally.
 
 ## Acknowledgments
 
